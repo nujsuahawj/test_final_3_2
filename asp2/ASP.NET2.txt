@@ -1,0 +1,11 @@
+--------------------
+ຂອບເຂດການຄົ້ນຄ້ວາ ASP.Net 2
+-------------------
+1. ຄວາມຮູ້ພື້ນຖານດ້ານເຄື່ອຂ່າຍ ແລະ ອິນເຕີເນັດ,ຄຸນສົມບັດຂອງຄອມໂພເນັນ 
+textBox,DropdownList,RadioButton,RadiobuttonGroup,CheckBox
+2. Controll Validation ເຊັ່ນ: RequireFieldValidator,Range...,Expresion...,Compare...
+3. ການເຊື່ອມຕໍ່ກັບຖານຂໍ້ມູນ MS ACCESS , MSSQLServer
+4. ຄລາສທີ່ຈັດການກຽວກັບຂໍ້ມູນ ເຊັ່ນ class ຄວນ imports , ໜ້າວຽກ ຂອງ ຄລາສ
+   SqlConnection ,SqlCommand,SqlAdapter;
+5. ຄໍາສັ່ງ SQL ໃນການຈັດການຂໍ້ມູນ SELECT ,INSERT,UPDATE,DELETE,DROP,ALTER 
+6. ການຂຽນ submit ຂໍ້ມູນຜ່ານຟອມ
